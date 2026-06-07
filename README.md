@@ -124,5 +124,5 @@ Feel free to fork the repository, raise issues, or suggest improvements through 
 ## 📬 Contact
 
 For questions or suggestions:  
-- GitHub: `Shilpachhatani`  
-- Email: shilpachhatani669@gmail.com 
+- GitHub: `yashkumar23`  
+- Email: yashchhatani7@gmail.com 
